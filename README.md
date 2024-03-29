@@ -13,7 +13,7 @@ Simply contain the latest PDFs for download, linked from the QR codes on the tim
 | [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)        |   4.0   |              |
 | [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)          |   4.0   |              |
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)          |   4.0   |              |
-| [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)         |   4.0   |              |
+| [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)         |   4.4   |  2024-03-30   |
 | [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)        |   3.6   |              |
 | [Chinese (Simplified) [中文简体（普通话）]](https://timeline24.github.io/timeline_zh.pdf)|   3.6   |              |
 | [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)            |   3.6   |              |
