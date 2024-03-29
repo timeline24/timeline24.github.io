@@ -4,21 +4,22 @@ Simply contain the latest PDFs for download, linked from the QR codes on the tim
 
 | language                                   | version | last updated |
 |--------------------------------------------|:-------:|:------------:|
-| [English](timeline_en.pdf)                 |   4.4   |  2024-03-23  |
-| [German (Deutsch)](timeline_de.pdf)        |   4.4   |  2024-03-23  |
-| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) |   4.5   |  2024-03-27  |
-| [French (Français)](timeline_fr.pdf)       |   4.1   |              |
-| [Japanese (日本語)](timeline_jp.pdf)        |   4.1   |              |
-| [Iloko (Ilocano)](timeline_ilo.pdf)         |   4.1   |              |
-| [Russian (Русский)](timeline_ru.pdf)        |   4.0   |              |
-| [Korean (한국인)](timeline_kr.pdf)          |   4.0   |              |
-| [Finnish (Suomi)](timeline_fi.pdf)          |   4.0   |              |
-| [Sinhala (සිංහල)](timeline_si.pdf)         |   4.0   |              |
-| [Spanish (Español)](timeline_es.pdf)        |   3.6   |              |
-| [Chinese (Simplified) [中文简体（普通话）]](timeline_cs.pdf)|   3.6   |              |
-| [Arabic (العربية)](timeline_ar.pdf)            |   3.6   |              |
-| [Igbo (Ásụ̀sụ́ Ìgbò)](timeline_igbo.pdf)      |   3.6   |              |
-| [Thai (ภาษาไทย)](timeline_thai.pdf)         |   3.6   |              |
+| [English](https://timeline24.github.io/timeline_en.pdf)                 |   4.5   |  2024-03-28  |
+| [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        |   4.5   |  2024-03-28  |
+| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) |   4.5   |  2024-03-29  |
+| [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       |   4.1   |              |
+| [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf)        |   4.1   |              |
+| [Iloko (Ilocano)](https://timeline24.github.io/timeline_ilo.pdf)         |   4.1   |              |
+| [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)        |   4.0   |              |
+| [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)          |   4.0   |              |
+| [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)          |   4.0   |              |
+| [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)         |   4.0   |              |
+| [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)        |   3.6   |              |
+| [Chinese (Simplified) [中文简体（普通话）]](https://timeline24.github.io/timeline_zh.pdf)|   3.6   |              |
+| [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)            |   3.6   |              |
+| [Igbo (Ásụ̀sụ́ Ìgbò)](https://timeline24.github.io/timeline_ig.pdf)      |   3.6   |              |
+| [Thai (ภาษาไทย)](https://timeline24.github.io/timeline_th.pdf)         |   3.6   |              |
+| [Norwegian (Norsk)](https://timeline24.github.io/timeline_no.pdf)         |   3.6   |              |
 
 ## Project repository
 
