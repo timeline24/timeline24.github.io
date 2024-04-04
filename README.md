@@ -1,6 +1,8 @@
 # Repository for latest PDF versions of the timeline project
 
-Simply contain the latest PDFs for download, linked from the QR codes on the timelines itself.
+This website contains the latest PDFs for download, linked from the QR codes on the timelines itself.
+
+1[timeline 4.4](https://raw.githubusercontent.com/kreier/timeline/main/docs/timeline20240324_4.4.png)
 
 | language                                                                | version | last updated |
 |-------------------------------------------------------------------------|:-------:|:------------:|
@@ -15,7 +17,8 @@ Simply contain the latest PDFs for download, linked from the QR codes on the tim
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         |   4.0   |              |
 | [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)          |   4.3   |  2024-03-30   |
 | [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)       |   3.6   |              |
-| [Chinese (Simplified) (中文简体（普通话))](https://timeline24.github.io/timeline_zh.pdf)| 4.4 | 2024-04-04 |
+| [Chinese Mandarin (Simplified) (中文简体（普通话))](https://timeline24.github.io/timeline_zh.pdf)| 4.4 | 2024-04-04 |
+| [Chinese Cantonese (Simplified)  [中文简体（广东话）]](https://timeline24.github.io/timeline_yue.pdf)| 4.4 | 2024-04-04 |
 | [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)        |   3.6   |              |
 | [Igbo (Ásụ̀sụ́ Ìgbò)](https://timeline24.github.io/timeline_ig.pdf)       |   3.6   |              |
 | [Thai (ภาษาไทย)](https://timeline24.github.io/timeline_th.pdf)          |   3.6   |              |
@@ -31,7 +34,7 @@ The idea for this project started with spreadsheets in 2009. I moved to vector g
 
 If you spot a mistake, please add an issue at [https://github.com/kreier/timeline/issues](https://github.com/kreier/timeline/issues)
 
-## Create your own PDF in a browswer
+## Create your own PDF in a browser
 
 To greate your own version just using a browser you can try out this [Jupyter Notebook at Google Colab](https://colab.research.google.com/drive/1G0z6jKIs_B_Md_y6Wen108Keo5WazalZ?usp=sharing). Simply press __Runtime - Run all__. It requires less than 60 seconds.
 
