@@ -6,8 +6,8 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 
 | language                                                                | version | last updated |
 |-------------------------------------------------------------------------|:-------:|:------------:|
-| [English](https://timeline24.github.io/timeline_en.pdf)                 |   4.5   |  2024-03-28  |
-| [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        |   4.5   |  2024-03-28  |
+| [English](https://timeline24.github.io/timeline_en.pdf)                 |   4.6   |  2024-04-12  |
+| [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        |   4.6   |  2024-04-12  |
 | [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) |   4.5   |  2024-04-02  |
 | [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       |   4.4   |  2024-04-04  |
 | [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf)        |   4.1   |              |
@@ -17,8 +17,8 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         |   4.0   |              |
 | [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)          |   4.3   |  2024-03-30   |
 | [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)       |   3.6   |              |
-| [Chinese Mandarin (Simplified) (中文简体（普通话))](https://timeline24.github.io/timeline_zh.pdf)| 4.4 | 2024-04-04 |
-| [Chinese Cantonese (Simplified)  [中文简体（广东话）]](https://timeline24.github.io/timeline_yue.pdf)| 4.4 | 2024-04-04 |
+| [Chinese Mandarin (Simplified) (中文简体（普通话))](https://timeline24.github.io/timeline_zh.pdf) | 4.4 | 2024-04-04 |
+| [Chinese Cantonese (Simplified)  [中文简体（广东话）]](https://timeline24.github.io/timeline_yue.pdf) | 4.4 | 2024-04-04 |
 | [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)        |   3.6   |              |
 | [Igbo (Ásụ̀sụ́ Ìgbò)](https://timeline24.github.io/timeline_ig.pdf)       |   3.6   |              |
 | [Thai (ภาษาไทย)](https://timeline24.github.io/timeline_th.pdf)          |   3.6   |              |
