@@ -2,16 +2,16 @@
 
 This website contains the latest PDFs for download, linked from the QR codes on the timelines itself.
 
-![timeline 4.4](https://raw.githubusercontent.com/kreier/timeline/main/docs/timeline20240324_4.4.png)
+![timeline 4.5](https://raw.githubusercontent.com/kreier/timeline/main/docs/timeline20240413_4.5.png)
 
 | language                                                                | version | last updated |
 |-------------------------------------------------------------------------|:-------:|:------------:|
 | [English](https://timeline24.github.io/timeline_en.pdf)                 |   4.6   |  2024-04-12  |
 | [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        |   4.6   |  2024-04-12  |
 | [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) |   4.5   |  2024-04-02  |
-| [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       |   4.4   |  2024-04-04  |
+| [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       |   4.5   |  2024-04-14  |
 | [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf)        |   4.1   |              |
-| [Iloko (Ilocano)](https://timeline24.github.io/timeline_ilo.pdf)        |   4.4   |  2024-03-29  |
+| [Iloko (Ilocano)](https://timeline24.github.io/timeline_ilo.pdf)        |   4.5   |  2024-04-14  |
 | [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       |   4.0   |              |
 | [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)           |   4.4   |  2024-03-30  |
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         |   4.0   |              |
