@@ -10,9 +10,9 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        |   4.6   |  2024-04-12  |
 | [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) |   4.5   |  2024-04-02  |
 | [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       |   4.5   |  2024-04-14  |
-| [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf)        |   4.1   |              |
+| [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf)        |   4.5   |  2024-04-15  |
 | [Iloko (Ilocano)](https://timeline24.github.io/timeline_ilo.pdf)        |   4.5   |  2024-04-14  |
-| [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       |   4.0   |              |
+| [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       |   4.5   |  2024-04-15  |
 | [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)           |   4.4   |  2024-03-30  |
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         |   4.0   |              |
 | [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)          |   4.3   |  2024-03-30   |
@@ -38,6 +38,6 @@ If you spot a mistake, please add an issue at [https://github.com/kreier/timelin
 
 To greate your own version just using a browser you can try out this [Jupyter Notebook at Google Colab](https://colab.research.google.com/drive/1G0z6jKIs_B_Md_y6Wen108Keo5WazalZ?usp=sharing). Simply press __Runtime - Run all__. It requires less than 60 seconds.
 
-## Edit your own edition in a browswer
+## Edit your own edition in a browser
 
-To edit the files in the browser its best to have your own Github account. Fork the [timeline](https://github.com/kreier/timeline) repository and create a Codespace within the fork. Install the needed 3 libraries (reportlab, svglib and googletranslate) and the CSV extention to Visual Studio Code. You're good to go change everything you want! Just using the browser.
+To edit the files in the browser its best to have your own Github account. Fork the [timeline](https://github.com/kreier/timeline) repository and create a Codespace within the fork. Install the needed 3 libraries (reportlab, svglib and googletranslate) and the CSV extention to Visual Studio Code. You're good to go! Change everything you want - just using the browser.
