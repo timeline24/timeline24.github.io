@@ -13,9 +13,9 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf)        |   4.5   |  2024-04-15  |
 | [Iloko (Ilocano)](https://timeline24.github.io/timeline_ilo.pdf)        |   4.5   |  2024-04-14  |
 | [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       |   4.5   |  2024-04-15  |
-| [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)           |   4.4   |  2024-03-30  |
-| [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         |   4.0   |              |
-| [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)          |   4.3   |  2024-03-30   |
+| [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)          |   4.4   |  2024-03-30  |
+| [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         |   4.5   |  2024-04-17   |
+| [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)         |   4.3   |  2024-03-30   |
 | [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)       |   3.6   |              |
 | [Chinese Mandarin (Simplified) (中文简体（普通话))](https://timeline24.github.io/timeline_zh.pdf) | 4.4 | 2024-04-04 |
 | [Chinese Cantonese (Simplified)  [中文简体（广东话）]](https://timeline24.github.io/timeline_yue.pdf) | 4.4 | 2024-04-04 |
