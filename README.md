@@ -22,7 +22,9 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)        |   3.6   |              |
 | [Igbo (Ásụ̀sụ́ Ìgbò)](https://timeline24.github.io/timeline_ig.pdf)       |   3.6   |              |
 | [Thai (ภาษาไทย)](https://timeline24.github.io/timeline_th.pdf)          |   3.6   |              |
+| [Tagalog (Filipino)](https://timeline24.github.io/timeline_tl.pdf)      |   4.5   |  2024-04-22  |
 | [Norwegian (Norsk)](https://timeline24.github.io/timeline_no.pdf)       |   4.3   |  2024-03-30  |
+| [Khmer (ខ្មែរ)](https://timeline24.github.io/timeline_th.pdf)             |   4.5   |  2024-04-22  |
 
 ## Project repository
 
