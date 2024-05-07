@@ -13,6 +13,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)       |   4.5   |  2024-04-23  |
 | [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       |   4.5   |  2024-04-15  |
 | [Iloko (Ilocano)](https://timeline24.github.io/timeline_ilo.pdf)        |   4.5   |  2024-04-14  |
+| [Kankana-ey](https://timeline24.github.io/timeline_kne.pdf)             |   4.5   |  2024-05-07  |
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         |   4.5   |  2024-04-17  |
 | [Tagalog (Filipino)](https://timeline24.github.io/timeline_tl.pdf)      |   4.5   |  2024-04-22  |
 | [Norwegian (Norsk)](https://timeline24.github.io/timeline_no.pdf)       |   4.3   |  2024-03-30  |
