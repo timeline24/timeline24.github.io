@@ -6,7 +6,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 
 | language                                                                | print | version | last updated |
 |-------------------------------------------------------------------------|:-----:|:-------:|:------------:|
-| [English](https://timeline24.github.io/timeline_en.pdf)                 | [link](https://timeline24.github.io/timeline_en_print.pdf)  4.6   |  2024-06-07  |
+| [English](https://timeline24.github.io/timeline_en.pdf)                 | [link](https://timeline24.github.io/timeline_en_print.pdf) |  4.6   |  2024-06-07  |
 | [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        |       |   4.6   |  2024-06-07  |
 | [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) |       |   4.6   |  2024-06-07  |
 | [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       |       |   4.5   |  2024-04-14  |
@@ -20,8 +20,8 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf)        |       |   4.5   |  2024-04-15  |
 | [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)          |       |   4.4   |  2024-03-30  |
 | [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)         |       |   4.3   |  2024-03-30   |
-| [Chinese Mandarin (Simplified) (中文简体（普通话))](https://timeline24.github.io/timeline_zh.pdf) |       | 4.4 | 2024-04-04 |
-| [Chinese Cantonese (Simplified)  [中文简体（广东话）]](https://timeline24.github.io/timeline_yue.pdf) |       | 4.4 | 2024-04-04 |
+| [Chinese Mandarin (Simplified) (普通话)](https://timeline24.github.io/timeline_zh.pdf) |       | 4.4 | 2024-04-04 |
+| [Chinese Cantonese (Simplified)  (广东话)](https://timeline24.github.io/timeline_yue.pdf) |       | 4.4 | 2024-04-04 |
 | [Khmer (ខ្មែរ)](https://timeline24.github.io/timeline_km.pdf)             |       |   4.5   |  2024-04-22  |
 | [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)       |        |   3.6   |              |
 | [Igbo (Ásụ̀sụ́ Ìgbò)](https://timeline24.github.io/timeline_ig.pdf)       |       |   3.6   |              |
@@ -31,7 +31,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 
 The work on the timeline is done and documented at the repository [https://github.com/kreier/timeline](https://github.com/kreier/timeline).
 
-The idea for this project started with spreadsheets in 2009. I moved to vector graphics in 2015. Then from 2023 on it was finally generated with a python program and the __reportlab package__ to make the creation, translation and editing much faster and easier. We stopped using reportlab with version 4.6 in summer 2024 and moved to fpdf2 with 4.7 to support complicated glyph composition like with Khmer, Sinhala and Arabic that requires a specific shape engine line harfbuzz.
+The idea for this project started with spreadsheets in 2009. I moved to vector graphics in 2015. Then from 2023 on it was finally generated with a python program and the __reportlab package__ to make the creation, translation and editing much faster and easier. We stopped using reportlab with version 4.6 in summer 2024 and moved to [fpdf2](https://py-pdf.github.io/fpdf2/index.html) with 4.7 to support complicated glyph composition for languages like Khmer, Sinhala and Arabic that requires a specific shape engine like [harfbuzz](https://github.com/harfbuzz/harfbuzz).
 
 ## Improvement - report mistakes
 
