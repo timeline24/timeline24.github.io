@@ -6,16 +6,16 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 
 | language                                                                | print | version | last updated |
 |-------------------------------------------------------------------------|:-----:|:-------:|:------------:|
-| [English](https://timeline24.github.io/timeline_en.pdf)                 | [link](https://timeline24.github.io/timeline_en_print.pdf) |  4.6   |  2024-06-07  |
-| [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        |       |   4.6   |  2024-06-07  |
-| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) |       |   4.6   |  2024-06-07  |
+| [English](https://timeline24.github.io/timeline_en.pdf)                 | [link](https://timeline24.github.io/timeline_en_print.pdf)  |   4.6   |  2024-06-07  |
+| [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        | [link](https://timeline24.github.io/timeline_de_print.pdf)  |   4.6   |  2024-06-07  |
+| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf)  |   4.6   |  2024-06-10  |
 | [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       |       |   4.5   |  2024-04-14  |
 | [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)       |       |   4.5   |  2024-04-23  |
 | [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       |       |   4.5   |  2024-04-15  |
-| [Iloko (Ilocano)](https://timeline24.github.io/timeline_ilo.pdf)        |       |   4.6   |  2024-06-07  |
-| [Kankana-ey](https://timeline24.github.io/timeline_kne.pdf)             |       |   4.6   |  2024-06-07  |
+| [Iloko (Ilocano)](https://timeline24.github.io/timeline_ilo.pdf)        | [link](https://timeline24.github.io/timeline_ilo_print.pdf) |   4.6   |  2024-06-10  |
+| [Kankana-ey](https://timeline24.github.io/timeline_kne.pdf)             | [link](https://timeline24.github.io/timeline_kne_print.pdf) |   4.6   |  2024-06-10  |
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         |       |   4.5   |  2024-04-17  |
-| [Tagalog (Filipino)](https://timeline24.github.io/timeline_tl.pdf)      |       |   4.6   |  2024-06-07  |
+| [Tagalog (Filipino)](https://timeline24.github.io/timeline_tl.pdf)      | [link](https://timeline24.github.io/timeline_vi_print.pdf)  |   4.6   |  2024-06-10  |
 | [Norwegian (Norsk)](https://timeline24.github.io/timeline_no.pdf)       |       |   4.3   |  2024-03-30  |
 | [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf)        |       |   4.5   |  2024-04-15  |
 | [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)          |       |   4.4   |  2024-03-30  |
