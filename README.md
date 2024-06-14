@@ -6,10 +6,10 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 
 | language                                                                | print | version | last updated |
 |-------------------------------------------------------------------------|:-----:|:-------:|:------------:|
-| [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)       |        |   3.6   |              |
+| [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)           |        |   3.6   |              |
 | [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        | [link](https://timeline24.github.io/timeline_de_print.pdf)  |   4.6   |  2024-06-07  |
 | [English](https://timeline24.github.io/timeline_en.pdf)                 | [link](https://timeline24.github.io/timeline_en_print.pdf)  |   4.6   |  2024-06-07  |
-| [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)       |       |   4.5   |  2024-04-23  |
+| [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)       | [link](https://timeline24.github.io/timeline_es_print.pdf)  |   4.6   |  2024-06-15  |
 | Persian (فارسی)  |       |      |    |
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         |       |   4.5   |  2024-04-17  |
 | [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       |       |   4.5   |  2024-04-14  |
