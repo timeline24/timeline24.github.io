@@ -23,7 +23,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Kankana-ey](https://timeline24.github.io/timeline_kne.pdf)             | [link](https://timeline24.github.io/timeline_kne_print.pdf) |   4.6   |  2024-06-10  |
 | [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)          |       |   4.4   |  2024-03-30  |
 | [Norwegian (Norsk)](https://timeline24.github.io/timeline_no.pdf)       |       |   4.3   |  2024-03-30  |
-| [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       |       |   4.5   |  2024-04-15  |
+| [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       | [link](https://timeline24.github.io/timeline_ru_print.pdf)  |   4.6   |  2024-06-17  |
 | [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)         |       |   4.3   |  2024-03-30   |
 | [Thai (ภาษาไทย)](https://timeline24.github.io/timeline_th.pdf)          |       |   3.6   |              |
 | [Tagalog (Filipino)](https://timeline24.github.io/timeline_tl.pdf)      | [link](https://timeline24.github.io/timeline_tl_print.pdf)  |   4.6   |  2024-06-10  |
@@ -31,6 +31,8 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf)  |   4.6   |  2024-06-11  |
 | [Chinese Cantonese (Simplified)  (广东话)](https://timeline24.github.io/timeline_yue.pdf) |       | 4.4 | 2024-04-04 |
 | [Chinese Mandarin (Simplified) (普通话)](https://timeline24.github.io/timeline_zh.pdf) |       | 4.4 | 2024-04-04 |
+
+The print version has additional 5cm left and right for the print shop. It's easier to connect the end roll covers to the timeline. The standard dimensions for the print version are 1308x210mm. But it can be scaled to any size with a ratio 6.228:1. 
 
 ## Project repository
 
