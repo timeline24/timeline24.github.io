@@ -1,4 +1,4 @@
-f# Repository for latest PDF versions of the timeline project
+# Repository for latest PDF versions of the timeline project
 
 This website contains the latest PDFs for download, linked from the QR codes on the timelines itself.
 
