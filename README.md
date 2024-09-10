@@ -1,4 +1,4 @@
-# Repository for latest PDF versions of the timeline project
+f# Repository for latest PDF versions of the timeline project
 
 This website contains the latest PDFs for download, linked from the QR codes on the timelines itself.
 
@@ -18,7 +18,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Igbo (Ásụ̀sụ́ Ìgbò)](https://timeline24.github.io/timeline_ig.pdf)       |       |   3.6   |              |
 | [Iloko (Ilocano)](https://timeline24.github.io/timeline_ilo.pdf)        | [link](https://timeline24.github.io/timeline_ilo_print.pdf) |   4.6   |  2024-06-10  |
 | [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf)        | [link](https://timeline24.github.io/timeline_ja_print.pdf)  |   4.6   |  2024-06-11  |
-| [Khmer (ខ្មែរ)](https://timeline24.github.io/timeline_km.pdf)             | [link](https://timeline24.github.io/timeline_km_print.pdf)  |   4.6   |  2024-06-24  |
+| [Khmer (ខ្មែរ)](https://timeline24.github.io/timeline_km.pdf)             | [link](https://timeline24.github.io/timeline_km_print.pdf)  |   4.6   |  2024-09-10  |
 | [Khmer (ខ្មែរ) with Arabic Numerals](https://timeline24.github.io/timeline_kman.pdf)  | [link](https://timeline24.github.io/timeline_kman_print.pdf) |   4.6   |  2024-06-24  |
 | [Kankana-ey](https://timeline24.github.io/timeline_kne.pdf)             | [link](https://timeline24.github.io/timeline_kne_print.pdf) |   4.6   |  2024-06-10  |
 | [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)          |       |   4.4   |  2024-03-30  |
