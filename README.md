@@ -1,6 +1,10 @@
 # Repository for latest PDF versions of the timeline project
 
-This website contains the latest PDFs for download, linked from the QR codes on the timelines itself.
+[![pages-build-deployment](https://github.com/timeline24/timeline24.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/timeline24/timeline24.github.io/actions/workflows/pages/pages-build-deployment)
+[![GitHub release](https://img.shields.io/github/release/timeline24/timeline24.github.io.svg)](https://GitHub.com/timeline24/timeline24.github.io/releases/)
+[![MIT license](https://img.shields.io/github/license/timeline24/timeline24.github.io)](https://kreier.mit-license.org/)
+
+This website contains the latest PDFs for download, linked from the QR codes on the [timelines](https://github.com/kreier/timeline) itself.
 
 ![timeline 4.6](https://raw.githubusercontent.com/kreier/timeline/main/docs/timeline20240516_4.6.png)
 
@@ -47,6 +51,9 @@ If you spot a mistake, please add an issue at [https://github.com/kreier/timelin
 ## Create your own PDF in a browser
 
 To greate your own version just using a browser you can try out this [Jupyter Notebook at Google Colab](https://colab.research.google.com/drive/1G0z6jKIs_B_Md_y6Wen108Keo5WazalZ?usp=sharing). Simply press __Runtime - Run all__. It requires less than 60 seconds. Since June 2024 there is also [a version 4.7 with fpdf2](https://colab.research.google.com/drive/1WbLz2Gz775j0bSFPHdQihAkub3wltAof?usp=sharing) to support RTL scripts, Khmer and Sinhala.
+
+- Jupyter notebook [in Google Colab with reportlab](https://colab.research.google.com/drive/1G0z6jKIs_B_Md_y6Wen108Keo5WazalZ?usp=sharing)
+- Jupyter notebook [in Google Colab with fpdf2](https://colab.research.google.com/drive/1WbLz2Gz775j0bSFPHdQihAkub3wltAof?usp=sharing)
 
 ## Edit your own edition in a browser
 
