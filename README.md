@@ -32,7 +32,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Thai (ภาษาไทย)](https://timeline24.github.io/timeline_th.pdf)          | [link](https://timeline24.github.io/timeline_th_print.pdf)  |   4.6   |  2024-12-26  |
 | [Tagalog (Filipino)](https://timeline24.github.io/timeline_tl.pdf)      | [link](https://timeline24.github.io/timeline_tl_print.pdf)  |   4.6   |  2024-06-10  |
 | [Urdu (اُردُو)](https://timeline24.github.io/timeline_ur.pdf)              | [link](https://timeline24.github.io/timeline_ur_print.pdf)  |   4.6   |  2024-07-15  |
-| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf)  |   5.1   |  2025-01-21  |
+| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf)  |   5.2   |  2025-02-22  |
 | [Chinese Cantonese (Simplified)  (广东话)](https://timeline24.github.io/timeline_yue.pdf) | [link](https://timeline24.github.io/timeline_yue_print.pdf)  | 4.4 | 2024-04-04 |
 | [Chinese Mandarin (Simplified) (普通话)](https://timeline24.github.io/timeline_zh.pdf) | [link](https://timeline24.github.io/timeline_zh_print.pdf)      | 4.4 | 2024-04-04 |
 
