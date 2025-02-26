@@ -19,7 +19,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       | [link](https://timeline24.github.io/timeline_fr_print.pdf)  |   4.6   |  2024-07-11  |
 | [Hebrew (עִבְרִית)](https://timeline24.github.io/timeline_he.pdf)          | [link](https://timeline24.github.io/timeline_he_print.pdf)  |  4.6    |  2024-12-26  |
 | [Hindi (हिन्दी)](https://timeline24.github.io/timeline_hi.pdf)            |  [link](https://timeline24.github.io/timeline_hi_print.pdf)  |  4.6    |  2024-12-26  |
-| [Igbo (Ásụ̀sụ́ Ìgbò)](https://timeline24.github.io/timeline_ig.pdf)       | [link](https://timeline24.github.io/timeline_ig_print.pdf)  |   4.6   |  2024-12-26  |
+| [Igbo (Ásụ̀sụ́ Ìgbò)](https://timeline24.github.io/timeline_ig.pdf)       | [link](https://timeline24.github.io/timeline_ig_print.pdf)  |   5.2   |  2025-02-26  |
 | [Iloko (Ilocano)](https://timeline24.github.io/timeline_ilo.pdf)        | [link](https://timeline24.github.io/timeline_ilo_print.pdf) |   4.6   |  2024-06-10  |
 | [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf)        | [link](https://timeline24.github.io/timeline_ja_print.pdf)  |   4.6   |  2024-06-11  |
 | [Khmer (ខ្មែរ)](https://timeline24.github.io/timeline_km.pdf)             | [link](https://timeline24.github.io/timeline_km_print.pdf)  |   4.6   |  2024-09-10  |
