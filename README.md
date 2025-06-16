@@ -25,7 +25,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Khmer (ខ្មែរ)](https://timeline24.github.io/timeline_km.pdf)             | [link](https://timeline24.github.io/timeline_km_print.pdf)  |   4.6   |  2024-09-10  |
 | [Khmer (ខ្មែរ) with Arabic Numerals](https://timeline24.github.io/timeline_kman.pdf)  | [link](https://timeline24.github.io/timeline_kman_print.pdf) |   4.6   |  2024-06-24  |
 | [Kankana-ey](https://timeline24.github.io/timeline_kne.pdf)             | [link](https://timeline24.github.io/timeline_kne_print.pdf) |   5.5   |  2025-05-02  |
-| [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf)          | [link](https://timeline24.github.io/timeline_ko_print.pdf)  |   4.4   |  2024-03-30  |
+| [Korean (한국어)](https://timeline24.github.io/timeline_ko.pdf)          | [link](https://timeline24.github.io/timeline_ko_print.pdf)  |   5.6   |  2025-06-16  |
 | [Norwegian (Norsk)](https://timeline24.github.io/timeline_no.pdf)       | [link](https://timeline24.github.io/timeline_no_print.pdf)  |   4.3   |  2024-03-30  |
 | [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       | [link](https://timeline24.github.io/timeline_ru_print.pdf)  |   5.5   |  2025-05-16  |
 | [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)         | [link](https://timeline24.github.io/timeline_si_print.pdf)  |   4.7   |  2024-12-25  |
