@@ -13,7 +13,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)           | [link](https://timeline24.github.io/timeline_ar_print.pdf)  |   4.5   |  2024-06-25  |
 | [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        | [link](https://timeline24.github.io/timeline_de_print.pdf)  |   5.5   |  2025-05-02  |
 | [English](https://timeline24.github.io/timeline_en.pdf)                 | [link](https://timeline24.github.io/timeline_en_print.pdf)  |   5.5   |  2025-05-02  |
-| [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)       | [link](https://timeline24.github.io/timeline_es_print.pdf)  |   5.2   |  2025-02-27  |
+| [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)       | [link](https://timeline24.github.io/timeline_es_print.pdf)  |   5.6   |  2025-06-24  |
 | [Persian (فارسی)](https://timeline24.github.io/timeline_fa.pdf)          | [link](https://timeline24.github.io/timeline_fa_print.pdf)  |   4.5   |  2024-06-25  |
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         | [link](https://timeline24.github.io/timeline_fi_print.pdf)  |   4.5   |  2024-04-17  |
 | [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       | [link](https://timeline24.github.io/timeline_fr_print.pdf)  |   4.6   |  2024-07-11  |
