@@ -29,6 +29,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Norwegian (Norsk)](https://timeline24.github.io/timeline_no.pdf)       | [link](https://timeline24.github.io/timeline_no_print.pdf)  |   4.3   |  2024-03-30  |
 | [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       | [link](https://timeline24.github.io/timeline_ru_print.pdf)  |   5.5   |  2025-05-16  |
 | [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)         | [link](https://timeline24.github.io/timeline_si_print.pdf)  |   4.7   |  2024-12-25  |
+| [Swahili (Kiswahili)](https://timeline24.github.io/timeline_sw.pdf)      | [link](https://timeline24.github.io/timeline_sw_print.pdf)  |   5.8   |  2025-08-15  |
 | [Thai (ภาษาไทย)](https://timeline24.github.io/timeline_th.pdf)          | [link](https://timeline24.github.io/timeline_th_print.pdf)  |   4.6   |  2024-12-26  |
 | [Tagalog (Filipino)](https://timeline24.github.io/timeline_tl.pdf)      | [link](https://timeline24.github.io/timeline_tl_print.pdf)  |   5.5   |  2025-05-02  |
 | [Urdu (اُردُو)](https://timeline24.github.io/timeline_ur.pdf)              | [link](https://timeline24.github.io/timeline_ur_print.pdf)  |   4.6   |  2024-07-15  |
