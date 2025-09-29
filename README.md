@@ -14,6 +14,8 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)           | [link](https://timeline24.github.io/timeline_ar_print.pdf)  |   4.5   |  2024-06-25  |
 | [Armenian (Հայերեն)](https://timeline24.github.io/timeline_hy.pdf)      | [link](https://timeline24.github.io/timeline_hy_print.pdf)  |   5.5   |  2025-05-02  |
 | [Cebuano (Bisayâ)](https://timeline24.github.io/timeline_ceb.pdf)       | [link](https://timeline24.github.io/timeline_ceb_print.pdf) |   5.9   | 2025-09-25  |
+| [Chinese Cantonese (Simplified)  (广东话)](https://timeline24.github.io/timeline_yue.pdf) | [link](https://timeline24.github.io/timeline_yue_print.pdf)  | 4.4 | 2024-04-04 |
+| [Chinese Mandarin (Simplified) (普通话)](https://timeline24.github.io/timeline_zh.pdf) | [link](https://timeline24.github.io/timeline_zh_print.pdf)      | 5.6 | 2025-06-17 |
 | [Estonian (eesti keel)](https://timeline24.github.io/timeline_et.pdf)   | [link](https://timeline24.github.io/timeline_et_print.pdf)  |   5.9   |  2025-09-25  |
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         | [link](https://timeline24.github.io/timeline_fi_print.pdf)  |   4.5   |  2024-04-17  |
 | [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       | [link](https://timeline24.github.io/timeline_fr_print.pdf)  |   5.9   |  2025-09-24  |
@@ -32,8 +34,8 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Malay (Bahasa Melayu)](https://timeline24.github.io/timeline_ms.pdf)   | [link](https://timeline24.github.io/timeline_ms_print.pdf)  |  5.9    |  2025-09-25  |
 | [Norwegian (Norsk)](https://timeline24.github.io/timeline_no.pdf)       | [link](https://timeline24.github.io/timeline_no_print.pdf)  |   4.3   |  2024-03-30  |
 | [Persian (فارسی)](https://timeline24.github.io/timeline_fa.pdf)          | [link](https://timeline24.github.io/timeline_fa_print.pdf)  |   4.5   |  2024-06-25  |
-| Portugese (Português)   | link |   5.5   | 2025-09-17 |
-| Punjabi (ਪੰਜਾਬੀ)          | link |   5.5   | 2025-09-17 |
+| [Portugese (Português)](https://timeline24.github.io/timeline_pt.pdf)   | [link](https://timeline24.github.io/timeline_pt_print.pdf)  |   5.9   | 2025-09-20 |
+| [Punjabi (ਪੰਜਾਬੀ)](https://timeline24.github.io/timeline_pa.pdf)          | [link](https://timeline24.github.io/timeline_pa_print.pdf)  |   5.9   | 2025-09-17 |
 | [Russian (Русский)](https://timeline24.github.io/timeline_ru.pdf)       | [link](https://timeline24.github.io/timeline_ru_print.pdf)  |   5.5   |  2025-05-16  |
 | [Sinhala (සිංහල)](https://timeline24.github.io/timeline_si.pdf)         | [link](https://timeline24.github.io/timeline_si_print.pdf)  |   4.7   |  2024-12-25  |
 | [Spanish (Español)](https://timeline24.github.io/timeline_es.pdf)       | [link](https://timeline24.github.io/timeline_es_print.pdf)  |   5.6   |  2025-06-24  |
@@ -43,8 +45,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Ukrainian (українська)](https://timeline24.github.io/timeline_uk.pdf)   | [link](https://timeline24.github.io/timeline_uk_print.pdf) |   5.9   |  2025-09-25  |
 | [Urdu (اُردُو)](https://timeline24.github.io/timeline_ur.pdf)              | [link](https://timeline24.github.io/timeline_ur_print.pdf)  |   4.6   |  2024-07-15  |
 | [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf)  |   5.8   |  2025-08-01  |
-| [Chinese Cantonese (Simplified)  (广东话)](https://timeline24.github.io/timeline_yue.pdf) | [link](https://timeline24.github.io/timeline_yue_print.pdf)  | 4.4 | 2024-04-04 |
-| [Chinese Mandarin (Simplified) (普通话)](https://timeline24.github.io/timeline_zh.pdf) | [link](https://timeline24.github.io/timeline_zh_print.pdf)      | 5.6 | 2025-06-17 |
+
 
 The print version has additional 5cm left and right for the print shop. It's easier to connect the end roll covers to the timeline. The standard dimensions for the print version are 1308x210mm. But it can be scaled to any size with a ratio 6.228:1. 
 
