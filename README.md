@@ -10,7 +10,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 
 | language                                                                |                   print                                     | version | last updated |
 |-------------------------------------------------------------------------|:-----------------------------------------------------------:|:-------:|:------------:|
-| [English](https://timeline24.github.io/timeline_en.pdf)                 | [link](https://timeline24.github.io/timeline_en_print.pdf)  |   5.9   |  2025-09-24  |
+| [English](https://timeline24.github.io/timeline_en.pdf)                 | [link](https://timeline24.github.io/timeline_en_print.pdf)  |   5.11  |  2025-11-10  |
 | [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf)           | [link](https://timeline24.github.io/timeline_ar_print.pdf)  |   4.5   |  2024-06-25  |
 | [Armenian (Հայերեն)](https://timeline24.github.io/timeline_hy.pdf)      | [link](https://timeline24.github.io/timeline_hy_print.pdf)  |   5.5   |  2025-05-02  |
 | [Cebuano (Bisayâ)](https://timeline24.github.io/timeline_ceb.pdf)       | [link](https://timeline24.github.io/timeline_ceb_print.pdf) |   5.9   | 2025-09-25  |
@@ -19,7 +19,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Estonian (eesti keel)](https://timeline24.github.io/timeline_et.pdf)   | [link](https://timeline24.github.io/timeline_et_print.pdf)  |   5.9   |  2025-09-25  |
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf)         | [link](https://timeline24.github.io/timeline_fi_print.pdf)  |   4.5   |  2024-04-17  |
 | [French (Français)](https://timeline24.github.io/timeline_fr.pdf)       | [link](https://timeline24.github.io/timeline_fr_print.pdf)  |   5.9   |  2025-09-24  |
-| [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        | [link](https://timeline24.github.io/timeline_de_print.pdf)  |   5.9   |  2025-09-24 |
+| [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf)        | [link](https://timeline24.github.io/timeline_de_print.pdf)  |   5.11  |  2025-11-10 |
 | [Greek (Ελληνικά)](https://timeline24.github.io/timeline_el.pdf)        | [link](https://timeline24.github.io/timeline_el_print.pdf)  |   5.5   |  2025-09-17  |
 | [Hebrew (עִבְרִית)](https://timeline24.github.io/timeline_he.pdf)          | [link](https://timeline24.github.io/timeline_he_print.pdf)  |  4.6    |  2024-12-26  |
 | [Hindi (हिन्दी)](https://timeline24.github.io/timeline_hi.pdf)            |  [link](https://timeline24.github.io/timeline_hi_print.pdf)  |  4.6    |  2024-12-26  |
@@ -44,7 +44,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Thai (ภาษาไทย)](https://timeline24.github.io/timeline_th.pdf)          | [link](https://timeline24.github.io/timeline_th_print.pdf)  |   4.6   |  2024-12-26  |
 | [Ukrainian (українська)](https://timeline24.github.io/timeline_uk.pdf)   | [link](https://timeline24.github.io/timeline_uk_print.pdf) |   5.9   |  2025-09-25  |
 | [Urdu (اُردُو)](https://timeline24.github.io/timeline_ur.pdf)              | [link](https://timeline24.github.io/timeline_ur_print.pdf)  |   4.6   |  2024-07-15  |
-| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf)  |   5.8   |  2025-08-01  |
+| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf)  |   5.11  |  2025-11-10  |
 
 
 The print version has additional 5cm left and right for the print shop. It's easier to connect the end roll covers to the timeline. The standard dimensions for the print version are 1308x210mm. But it can be scaled to any size with a ratio 6.228:1. 
