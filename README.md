@@ -49,7 +49,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf) | 6.01 | 2026-01-02 |
 
 
-The print version has additional 5cm left and right for the print shop. It's easier to connect the end roll covers to the timeline. The standard dimensions for the print version are 1308x210mm. But it can be scaled to any size with a ratio 6.228:1. 
+The digital edition is 1208x210mm in size or about four A4 papers in landscape. The print version has additional 5cm left and right for the print shop. It's easier to connect the end roll covers to the timeline. The standard dimensions for the print version are 1308x210 mm. But it can be scaled to any size with a ratio 6.228:1, since almost the entire content is vector graphics. Four digital editions on A0 will be slightly smaller with 1188x206.5 and have 7mm extra border above/below. 
 
 ## Project repository
 
