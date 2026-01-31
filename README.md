@@ -76,4 +76,4 @@ To edit the files in the browser its best to have your own Github account. Fork 
 
 Initially the timelines above are automatically translated with Google translate. Later each of the more than 560 strings has to be verified, and that takes time. But we made some progress:
 
-![Translation progress](https://kreier.github.io/timeline/history/percentage_strings_checked.svg)
+![Progress translation](https://kreier.github.io/timeline/history/percentage_strings_checked_tag.svg)
