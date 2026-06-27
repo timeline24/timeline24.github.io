@@ -33,7 +33,8 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Khmer (ខ្មែរ) with arabic numerals](https://timeline24.github.io/timeline_kman.pdf) | [link](https://timeline24.github.io/timeline_kman_print.pdf) | 6.02 | 2026-02-12 |
 | [Kikongo](https://timeline24.github.io/timeline_kg.pdf) | [link](https://timeline24.github.io/timeline_kg_print.pdf) | 6.02 | 2026-02-12 |
 | [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf) | [link](https://timeline24.github.io/timeline_ko_print.pdf) | 6.02 | 2026-02-12 |
-| [Malay (Bahasa Melayu)](https://timeline24.github.io/timeline_ms.pdf) | [link](https://timeline24.github.io/timeline_ms_print.pdf) | 6.02 | 2026-02-12 |
+| [Laotian (ລາວ)](https://timeline24.github.io/timeline_lo.pdf) | [link](https://timeline24.github.io/timeline_lo_print.pdf) | 6.06 | 2026-06-27 |
+| [Malay (Bahaelayu)](https://timeline24.github.io/timeline_ms.pdf) | [link](https://timeline24.github.io/timeline_ms_print.pdf) | 6.02 | 2026-02-12 |
 | [Norwegian (Norsk)](https://timeline24.github.io/timeline_no.pdf) | [link](https://timeline24.github.io/timeline_no_print.pdf) | 6.02 | 2026-02-12 |
 | [Persian or Farsi (فارسی)](https://timeline24.github.io/timeline_fa.pdf) | [link](https://timeline24.github.io/timeline_fa_print.pdf) | 6.02 | 2026-02-12 |
 | [Portugese (Português)](https://timeline24.github.io/timeline_pt.pdf) | [link](https://timeline24.github.io/timeline_pt_print.pdf) | 6.02 | 2026-02-12 |
