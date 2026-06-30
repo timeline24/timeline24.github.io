@@ -10,17 +10,17 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 
 | language                                                                |                   print                                     | version | last updated |
 |-------------------------------------------------------------------------|:-----------------------------------------------------------:|:-------:|:------------:|
-| [English](https://timeline24.github.io/timeline_en.pdf) | [link](https://timeline24.github.io/timeline_en_print.pdf)                  | 6.02 | 2026-02-12 |
+| [English](https://timeline24.github.io/timeline_en.pdf) | [link](https://timeline24.github.io/timeline_en_print.pdf)                  | 6.06 | 2026-06-30 |
 | [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf) | [link](https://timeline24.github.io/timeline_ar_print.pdf)            | 6.02 | 2026-02-12 |
 | [Armenian (Հայերեն)](https://timeline24.github.io/timeline_hy.pdf) | [link](https://timeline24.github.io/timeline_hy_print.pdf)       | 6.02 | 2026-02-12 |
 | [Cebuano (Bisayâ)](https://timeline24.github.io/timeline_ceb.pdf) | [link](https://timeline24.github.io/timeline_ceb_print.pdf)       | 6.02 | 2026-02-12 |
 | [Chinese Cantonese (Simplified) [中文简体（广东话)]](https://timeline24.github.io/timeline_yue.pdf) | [link](https://timeline24.github.io/timeline_yue_print.pdf) | 6.02 | 2026-02-12 |
-| [Chinese Mandarin (Simplified) [中文简体（普通话)]](https://timeline24.github.io/timeline_zh.pdf) | [link](https://timeline24.github.io/timeline_zh_print.pdf) | 6.02 | 2026-02-12 |
+| [Chinese Mandarin (Simplified) [中文简体（普通话)]](https://timeline24.github.io/timeline_zh.pdf) | [link](https://timeline24.github.io/timeline_zh_print.pdf) | 6.06 | 2026-06-30 |
 | [Dutch (Nederlands)](https://timeline24.github.io/timeline_nl.pdf) | [link](https://timeline24.github.io/timeline_nl_print.pdf) | 6.02 | 2026-02-12 |
 | [Estonian (eesti keel)](https://timeline24.github.io/timeline_et.pdf) | [link](https://timeline24.github.io/timeline_et_print.pdf) | 6.02 | 2026-02-12 |
 | [Finnish (Suomi)](https://timeline24.github.io/timeline_fi.pdf) | [link](https://timeline24.github.io/timeline_fi_print.pdf) | 6.02 | 2026-02-12 |
 | [French (Français)](https://timeline24.github.io/timeline_fr.pdf) | [link](https://timeline24.github.io/timeline_fr_print.pdf) | 6.02 | 2026-02-12 |
-| [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf) | [link](https://timeline24.github.io/timeline_de_print.pdf) | 6.02 | 2026-02-12 |
+| [German (Deutsch)](https://timeline24.github.io/timeline_de.pdf) | [link](https://timeline24.github.io/timeline_de_print.pdf) | 6.06 | 2026-06-30 |
 | [Greek (Ελληνικά)](https://timeline24.github.io/timeline_el.pdf) | [link](https://timeline24.github.io/timeline_el_print.pdf) | 6.02 | 2026-02-12 |
 | [Hebrew (עִבְרִית)](https://timeline24.github.io/timeline_he.pdf) | [link](https://timeline24.github.io/timeline_he_print.pdf) | 6.02 | 2026-02-12 |
 | [Hindi (हिन्दी)](https://timeline24.github.io/timeline_hi.pdf) | [link](https://timeline24.github.io/timeline_hi_print.pdf) | 6.02 | 2026-02-12 |
@@ -32,7 +32,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Khmer (ខ្មែរ)](https://timeline24.github.io/timeline_km.pdf) | [link](https://timeline24.github.io/timeline_km_print.pdf) | 6.02 | 2026-02-12 |
 | [Khmer (ខ្មែរ) with arabic numerals](https://timeline24.github.io/timeline_kman.pdf) | [link](https://timeline24.github.io/timeline_kman_print.pdf) | 6.02 | 2026-02-12 |
 | [Kikongo](https://timeline24.github.io/timeline_kg.pdf) | [link](https://timeline24.github.io/timeline_kg_print.pdf) | 6.02 | 2026-02-12 |
-| [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf) | [link](https://timeline24.github.io/timeline_ko_print.pdf) | 6.02 | 2026-02-12 |
+| [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf) | [link](https://timeline24.github.io/timeline_ko_print.pdf) | 6.06 | 2026-06-30 |
 | [Laotian (ລາວ)](https://timeline24.github.io/timeline_lo.pdf) | [link](https://timeline24.github.io/timeline_lo_print.pdf) | 6.06 | 2026-06-27 |
 | [Malay (Bahaelayu)](https://timeline24.github.io/timeline_ms.pdf) | [link](https://timeline24.github.io/timeline_ms_print.pdf) | 6.02 | 2026-02-12 |
 | [Norwegian (Norsk)](https://timeline24.github.io/timeline_no.pdf) | [link](https://timeline24.github.io/timeline_no_print.pdf) | 6.02 | 2026-02-12 |
@@ -47,7 +47,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Thai (ภาษาไทย)](https://timeline24.github.io/timeline_th.pdf) | [link](https://timeline24.github.io/timeline_th_print.pdf) | 6.02 | 2026-02-12 |
 | [Ukrainian (українська)](https://timeline24.github.io/timeline_uk.pdf) | [link](https://timeline24.github.io/timeline_uk_print.pdf) | 6.02 | 2026-02-12 |
 | [Urdu (اُردُو)](https://timeline24.github.io/timeline_ur.pdf) | [link](https://timeline24.github.io/timeline_ur_print.pdf) | 6.02 | 2026-02-12 |
-| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf) | 6.02 | 2026-02-12 |
+| [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf) | 6.06 | 2026-06-30 |
 
 
 The digital edition is 1208x210mm in size or about four A4 papers in landscape. The print version has additional 5cm left and right for the print shop. It's easier to connect the end roll covers to the timeline. The standard dimensions for the print version are 1308x210 mm. But it can be scaled to any size with a ratio 6.228:1, since almost the entire content is vector graphics. Four digital editions on A0 will be slightly smaller with 1188x206.5 and have 7mm extra border above/below. 
