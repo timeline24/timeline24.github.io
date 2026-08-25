@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/timeline24/timeline24.github.io.svg)](https://GitHub.com/timeline24/timeline24.github.io/releases/)
 ![GitHub License](https://img.shields.io/github/license/timeline24/timeline24.github.io)
-[![pages-build-deployment](https://github.com/timeline24/timeline24.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/timeline24/timeline24.github.io/actions/workflows/pages/pages-build-deployment)
+[![Build and deploy timeline PDFs to Pages](https://github.com/timeline24/timeline24.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/timeline24/timeline24.github.io/actions/workflows/deploy.yml)
 
 This website contains the latest PDFs for download, linked from the QR codes on the [timelines](https://github.com/kreier/timeline) itself.
 
