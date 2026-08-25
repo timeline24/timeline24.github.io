@@ -2,8 +2,8 @@
 name: Build and publish timeline PDFs
 
 on:
-  schedule:
-    - cron: '17 3 * * *'      # daily check, adjust to taste
+  # schedule:
+  #   - cron: '17 3 * * *'      # daily check, adjust to taste
   workflow_dispatch: {}        # manual "run now" button, forces a rebuild
 
 concurrency:
