@@ -1,0 +1,46 @@
+name: 'Check kreier/timeline source folders'
+description: >
+  Fingerprints db/, images/, python/ (top-level files only), and python/fonts/
+  in kreier/timeline, and compares it against the fingerprint recorded in
+  this repository's .github/state/fingerprint.txt.
+outputs:
+  changed:
+    description: "'true' if the monitored folders changed since the last recorded build"
+    value: ${{ steps.compare.outputs.changed }}
+  fingerprint:
+    description: "The freshly computed fingerprint"
+    value: ${{ steps.fingerprint.outputs.fingerprint }}
+runs:
+  using: "composite"
+  steps:
+    - name: Compute fingerprint of monitored source folders
+      id: fingerprint
+      shell: bash
+      run: |
+        set -euo pipefail
+        TREE=$(curl -s "https://api.github.com/repos/kreier/timeline/git/trees/main?recursive=1")
+        FP=$(echo "$TREE" | jq -r '
+          .tree[]
+          | select(.type=="blob")
+          | select(
+              (.path | test("^db/[^/]+$")) or
+              (.path | test("^images/[^/]+$")) or
+              (.path | test("^python/[^/]+$")) or
+              (.path | test("^python/fonts/[^/]+$"))
+            )
+          | "\(.path) \(.sha)"
+        ' | sort | sha256sum | cut -d" " -f1)
+        echo "fingerprint=$FP" >> "$GITHUB_OUTPUT"
+
+    - name: Compare against last recorded fingerprint
+      id: compare
+      shell: bash
+      run: |
+        STATE_FILE=".github/state/fingerprint.txt"
+        LAST=""
+        [ -f "$STATE_FILE" ] && LAST=$(cat "$STATE_FILE")
+        if [ "$LAST" = "${{ steps.fingerprint.outputs.fingerprint }}" ]; then
+          echo "changed=false" >> "$GITHUB_OUTPUT"
+        else
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+        fi
