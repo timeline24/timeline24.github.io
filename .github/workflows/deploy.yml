@@ -1,0 +1,96 @@
+name: Build and deploy timeline PDFs to Pages
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore:
+      - '.github/state/fingerprint.txt'   # don't retrigger on our own commit
+
+permissions:
+  contents: write   # only to update the tiny fingerprint file
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check whether monitored source folders changed
+        id: check
+        uses: ./.github/actions/check-source
+
+      - name: Restore cached PDFs for this fingerprint
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: pdf-output
+          key: pdfs-${{ steps.check.outputs.fingerprint }}
+
+      - name: Sparse-checkout db, images, python from kreier/timeline
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/kreier/timeline.git _source
+          cd _source && git sparse-checkout set db images python
+
+      - name: Set up Python
+        if: steps.cache.outputs.cache-hit != 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: pip install fpdf2 uharfbuzz pillow pandas "googletrans==4.0.2" qrcode
+
+      - name: Generate all PDFs (batch.py loops over every supported language)
+        if: steps.cache.outputs.cache-hit != 'true'
+        working-directory: _source/python
+        run: python batch.py
+
+      - name: Collect PDFs
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p pdf-output
+          cp _source/timeline/*.pdf pdf-output/
+          rm -rf _source
+
+      - name: Build Jekyll site (renders README.md as before)
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Add generated PDFs to the site output
+        run: cp pdf-output/*.pdf _site/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Record new fingerprint
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          mkdir -p .github/state
+          echo "${{ steps.check.outputs.fingerprint }}" > .github/state/fingerprint.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/state/fingerprint.txt
+          git diff --cached --quiet || git commit -m "Record new source fingerprint ${{ steps.check.outputs.fingerprint }}"
+          git push
