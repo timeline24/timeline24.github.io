@@ -3,6 +3,10 @@ description: >
   Fingerprints db/, images/, python/ (top-level files only), and python/fonts/
   in kreier/timeline, and compares it against the fingerprint recorded in
   this repository's .github/state/fingerprint.txt.
+inputs:
+  github-token:
+    description: 'Token used to authenticate against the GitHub API (avoids the 60 req/hr unauthenticated limit)'
+    required: true
 outputs:
   changed:
     description: "'true' if the monitored folders changed since the last recorded build"
@@ -18,7 +22,22 @@ runs:
       shell: bash
       run: |
         set -euo pipefail
-        TREE=$(curl -s "https://api.github.com/repos/kreier/timeline/git/trees/main?recursive=1")
+        TREE=$(curl -sf \
+          -H "Authorization: Bearer ${{ inputs.github-token }}" \
+          -H "Accept: application/vnd.github+json" \
+          "https://api.github.com/repos/kreier/timeline/git/trees/main?recursive=1")
+
+        if ! echo "$TREE" | jq -e '.tree' > /dev/null 2>&1; then
+          echo "::error::GitHub API did not return a tree. Response was:"
+          echo "$TREE"
+          exit 1
+        fi
+
+        TRUNCATED=$(echo "$TREE" | jq -r '.truncated')
+        if [ "$TRUNCATED" = "true" ]; then
+          echo "::warning::Tree response was truncated by the GitHub API — fingerprint may miss some files."
+        fi
+
         FP=$(echo "$TREE" | jq -r '
           .tree[]
           | select(.type=="blob")
