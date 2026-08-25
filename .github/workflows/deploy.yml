@@ -73,6 +73,9 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Fix ownership of Jekyll output
+        run: sudo chown -R "$(id -u):$(id -g)" _site
+
       - name: Add generated PDFs to the site output
         run: cp pdf-output/*.pdf _site/
 
