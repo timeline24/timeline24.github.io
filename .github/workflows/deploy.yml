@@ -30,6 +30,8 @@ jobs:
       - name: Check whether monitored source folders changed
         id: check
         uses: ./.github/actions/check-source
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}        
 
       - name: Restore cached PDFs for this fingerprint
         id: cache
