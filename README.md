@@ -1,12 +1,12 @@
-# Repository for latest PDF versions of the timeline project
+# Current PDF releases for the Timeline Project
 
 [![GitHub release](https://img.shields.io/github/release/timeline24/timeline24.github.io.svg)](https://GitHub.com/timeline24/timeline24.github.io/releases/)
 ![GitHub License](https://img.shields.io/github/license/timeline24/timeline24.github.io)
 [![Build and deploy timeline PDFs to Pages](https://github.com/timeline24/timeline24.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/timeline24/timeline24.github.io/actions/workflows/deploy.yml)
 
-This website contains the latest PDFs for download, linked from the QR codes on the [timelines](https://github.com/kreier/timeline) itself.
+Download the most recent PDF builds here. These links correspond to the QR codes printed on the [timelines](https://github.com/kreier/timeline).
 
-![timeline 5.2](https://raw.githubusercontent.com/kreier/timeline/refs/heads/main/docs/timeline20250221_5.2.png)
+![timeline 6.01](https://raw.githubusercontent.com/kreier/timeline/refs/heads/main/docs/timeline20260117_6.01.png)
 
 | language                                                                |                   print                                     | version | last updated |
 |-------------------------------------------------------------------------|:-----------------------------------------------------------:|:-------:|:------------:|
@@ -30,7 +30,7 @@ This website contains the latest PDFs for download, linked from the QR codes on 
 | [Japanese (日本語)](https://timeline24.github.io/timeline_ja.pdf) | [link](https://timeline24.github.io/timeline_ja_print.pdf) | 6.02 | 2026-02-12 |
 | [Kankana-ey](https://timeline24.github.io/timeline_kne.pdf) | [link](https://timeline24.github.io/timeline_kne_print.pdf) | 6.02 | 2026-02-12 |
 | [Khmer (ខ្មែរ)](https://timeline24.github.io/timeline_km.pdf) | [link](https://timeline24.github.io/timeline_km_print.pdf) | 6.02 | 2026-02-12 |
-| [Khmer (ខ្មែរ) with arabic numerals](https://timeline24.github.io/timeline_kman.pdf) | [link](https://timeline24.github.io/timeline_kman_print.pdf) | 6.02 | 2026-02-12 |
+| [Khmer (ខ្មែរ) with Arabic numerals](https://timeline24.github.io/timeline_kman.pdf) | [link](https://timeline24.github.io/timeline_kman_print.pdf) | 6.02 | 2026-02-12 |
 | [Kikongo](https://timeline24.github.io/timeline_kg.pdf) | [link](https://timeline24.github.io/timeline_kg_print.pdf) | 6.02 | 2026-02-12 |
 | [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf) | [link](https://timeline24.github.io/timeline_ko_print.pdf) | 6.06 | 2026-06-30 |
 | [Laotian (ລາວ)](https://timeline24.github.io/timeline_lo.pdf) | [link](https://timeline24.github.io/timeline_lo_print.pdf) | 6.06 | 2026-06-27 |
@@ -64,7 +64,7 @@ If you spot a mistake, please add an issue at [https://github.com/kreier/timelin
 
 ## Create your own PDF in a browser
 
-To greate your own version just using a browser you can try out this [Jupyter Notebook at Google Colab](https://colab.research.google.com/drive/1G0z6jKIs_B_Md_y6Wen108Keo5WazalZ?usp=sharing). Simply press __Runtime - Run all__. It requires less than 60 seconds. Since June 2024 there is also [a version 4.7 with fpdf2](https://colab.research.google.com/drive/1WbLz2Gz775j0bSFPHdQihAkub3wltAof?usp=sharing) to support RTL scripts, Khmer and Sinhala.
+To create your own version just using a browser you can try out this [Jupyter Notebook at Google Colab](https://colab.research.google.com/drive/1G0z6jKIs_B_Md_y6Wen108Keo5WazalZ?usp=sharing). Simply press __Runtime - Run all__. It requires less than 60 seconds. Since June 2024 there is also [a version 4.7 with fpdf2](https://colab.research.google.com/drive/1WbLz2Gz775j0bSFPHdQihAkub3wltAof?usp=sharing) to support RTL scripts, Khmer and Sinhala.
 
 - Jupyter notebook [in Google Colab with reportlab](https://colab.research.google.com/drive/1G0z6jKIs_B_Md_y6Wen108Keo5WazalZ?usp=sharing)
 - Jupyter notebook [in Google Colab with fpdf2](https://colab.research.google.com/drive/1WbLz2Gz775j0bSFPHdQihAkub3wltAof?usp=sharing)
@@ -77,4 +77,8 @@ To edit the files in the browser its best to have your own Github account. Fork 
 
 Initially the timelines above are automatically translated with Google translate. Later each of the more than 560 strings has to be verified, and that takes time. But we made some progress:
 
+<!-- It is "Languages of Timeline project overview" Google Docs  https://docs.google.com/spreadsheets/d/1UZ82T4CKYxNxYQbgD_wvdHmzfsIwjndnLfCdK0caVfc/edit -->
+
 ![Progress translation](https://kreier.github.io/timeline/history/percentage_strings_checked_tag.svg)
+
+You can support the translations on the website [kreier.github.io/dictionary/](https://kreier.github.io/dictionary/).
