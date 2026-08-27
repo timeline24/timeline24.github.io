@@ -2,7 +2,7 @@ name: Build and deploy timeline PDFs to Pages
 
 on:
   schedule:
-    - cron: '17 3 * * *'
+    - cron: '14 20 * * *'
   workflow_dispatch: {}
   push:
     branches: [main]
@@ -25,7 +25,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v7
+      - name: Checkout timeline24.github.io
+        uses: actions/checkout@v7
 
       - name: Check whether monitored source folders changed
         id: check
