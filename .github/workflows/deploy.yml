@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths-ignore:
       - '.github/state/fingerprint.txt'   # don't retrigger on our own commit
+      - '.github/state/timeline24.md'     # updated by update-list-languages workflow
 
 permissions:
   contents: write   # only to update the tiny fingerprint file

@@ -1,15 +1,3 @@
-# Current PDF releases for the Timeline Project
-
-[![GitHub release](https://img.shields.io/github/release/timeline24/timeline24.github.io.svg)](https://GitHub.com/timeline24/timeline24.github.io/releases/)
-![GitHub License](https://img.shields.io/github/license/timeline24/timeline24.github.io)
-[![Build and deploy timeline PDFs to Pages](https://github.com/timeline24/timeline24.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/timeline24/timeline24.github.io/actions/workflows/deploy.yml)
-
-Download the most recent PDF builds here. These links correspond to the QR codes printed on the [timelines](https://github.com/kreier/timeline).
-
-![timeline 6.01](https://raw.githubusercontent.com/kreier/timeline/refs/heads/main/docs/timeline20260117_6.01.png)
-
-<!-- start marker table translations -->
-
 | language | print | version | last updated |
 |----------|:-----:|:-------:|:------------:|
 | [Arabic (العربية)](https://timeline24.github.io/timeline_ar.pdf) | [link](https://timeline24.github.io/timeline_ar_print.pdf) |  6.08   |  2026-08-26  |
@@ -55,38 +43,3 @@ Download the most recent PDF builds here. These links correspond to the QR codes
 | [Ukrainian (українська)](https://timeline24.github.io/timeline_uk.pdf) | [link](https://timeline24.github.io/timeline_uk_print.pdf) |  6.08   |  2026-08-26  |
 | [Urdu (اُردُو)](https://timeline24.github.io/timeline_ur.pdf) | [link](https://timeline24.github.io/timeline_ur_print.pdf) |  6.08   |  2026-08-26  |
 | [Vietnamese (Tiếng Việt)](https://timeline24.github.io/timeline_vi.pdf) | [link](https://timeline24.github.io/timeline_vi_print.pdf) |  6.08   |  2026-08-26  |
-
-<!-- end marker table translations -->
-
-The digital edition is 1208x210mm in size or about four A4 papers in landscape. The print version has additional 5cm left and right for the print shop. It's easier to connect the end roll covers to the timeline. The standard dimensions for the print version are 1308x210 mm. But it can be scaled to any size with a ratio 6.228:1, since almost the entire content is vector graphics. Four digital editions on A0 will be slightly smaller with 1188x206.5 and have 7mm extra border above/below. 
-
-## Project repository
-
-The work on the timeline is done and documented at the repository [https://github.com/kreier/timeline](https://github.com/kreier/timeline).
-
-The idea for this project started with spreadsheets in 2009. I moved to vector graphics in 2015. Then from 2023 on it was finally generated with a python program and the __reportlab package__ to make the creation, translation and editing much faster and easier. We stopped using reportlab with version 4.6 in summer 2024 and moved to [fpdf2](https://py-pdf.github.io/fpdf2/index.html) with 4.7 to support complicated glyph composition for languages like Khmer, Sinhala and Arabic that requires a specific shape engine like [harfbuzz](https://github.com/harfbuzz/harfbuzz).
-
-## Improvement - report mistakes
-
-If you spot a mistake, please add an issue at [https://github.com/kreier/timeline/issues](https://github.com/kreier/timeline/issues)
-
-## Create your own PDF in a browser
-
-To create your own version just using a browser you can try out this [Jupyter Notebook at Google Colab](https://colab.research.google.com/drive/1G0z6jKIs_B_Md_y6Wen108Keo5WazalZ?usp=sharing). Simply press __Runtime - Run all__. It requires less than 60 seconds. Since June 2024 there is also [a version 4.7 with fpdf2](https://colab.research.google.com/drive/1WbLz2Gz775j0bSFPHdQihAkub3wltAof?usp=sharing) to support RTL scripts, Khmer and Sinhala.
-
-- Jupyter notebook [in Google Colab with reportlab](https://colab.research.google.com/drive/1G0z6jKIs_B_Md_y6Wen108Keo5WazalZ?usp=sharing)
-- Jupyter notebook [in Google Colab with fpdf2](https://colab.research.google.com/drive/1WbLz2Gz775j0bSFPHdQihAkub3wltAof?usp=sharing)
-
-## Edit your own edition in a browser
-
-To edit the files in the browser its best to have your own Github account. Fork the [timeline](https://github.com/kreier/timeline) repository and create a Codespace within the fork. Install the needed 3 libraries (reportlab, svglib and googletranslate) and the CSV extention to Visual Studio Code. You're good to go! Change everything you want - just using the browser.
-
-## Translation
-
-Initially the timelines above are automatically translated with Google translate. Later each of the more than 560 strings has to be verified, and that takes time. But we made some progress:
-
-<!-- It is "Languages of Timeline project overview" Google Docs  https://docs.google.com/spreadsheets/d/1UZ82T4CKYxNxYQbgD_wvdHmzfsIwjndnLfCdK0caVfc/edit -->
-
-![Progress translation](https://kreier.github.io/timeline/history/percentage_strings_checked_tag.svg)
-
-You can support the translations on the website [kreier.github.io/dictionary/](https://kreier.github.io/dictionary/).
