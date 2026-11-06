@@ -95,7 +95,7 @@ To edit the files in the browser its best to have your own Github account. Fork 
 
 ## Translation
 
-Initially the timelines above are automatically translated with Google translate. Later each of the more than 560 strings has to be verified, and that takes time. But we made some progress:
+Initially the timelines above are automatically translated with Google translate. Later each of the more than 560 strings has to be verified, and that takes time. Some progress is documented at [kreier.github.io/timeline/status/](https://kreier.github.io/timeline/status/) and here in a graph:
 
 <!-- It is "Languages of Timeline project overview" Google Docs  https://docs.google.com/spreadsheets/d/1UZ82T4CKYxNxYQbgD_wvdHmzfsIwjndnLfCdK0caVfc/edit -->
 
