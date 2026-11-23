@@ -43,7 +43,7 @@ Download the most recent PDF builds here. These links correspond to the QR codes
 | [Khmer (ខ្មែរ)](https://timeline24.github.io/timeline_km.pdf) | [link](https://timeline24.github.io/timeline_km_print.pdf) |  6.08   |  2026-08-26  |
 | [Kikongo](https://timeline24.github.io/timeline_kg.pdf) | [link](https://timeline24.github.io/timeline_kg_print.pdf) |  6.08   |  2026-08-26  |
 | [Korean (한국인)](https://timeline24.github.io/timeline_ko.pdf) | [link](https://timeline24.github.io/timeline_ko_print.pdf) |  6.08   |  2026-08-26  |
-| [Laotian (ລາວ)](https://timeline24.github.io/timeline_lo.pdf) | [link](https://timeline24.github.io/timeline_lo_print.pdf) |  6.08   |  2026-08-26  |
+| [Laotian (ລາວ)](https://timeline24.github.io/timeline_lo.pdf) | [link](https://timeline24.github.io/timeline_lo_print.pdf) |  6.11   |  2026-11-17  |
 | [Malay (Bahasa Melayu)](https://timeline24.github.io/timeline_ms.pdf) | [link](https://timeline24.github.io/timeline_ms_print.pdf) |  6.08   |  2026-08-26  |
 | [Malayalam (മലയാളം)](https://timeline24.github.io/timeline_ml.pdf) | [link](https://timeline24.github.io/timeline_ml_print.pdf) |  6.08   |  2026-09-04  |
 | [Marathi (मराठी)](https://timeline24.github.io/timeline_mr.pdf) | [link](https://timeline24.github.io/timeline_mr_print.pdf) |  6.08   |  2026-09-04  |
